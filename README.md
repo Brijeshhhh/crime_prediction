@@ -73,6 +73,6 @@ The modified State crime dataset consists of 2751 data points, with each datapoi
 21.Data.Totals.Violent.Robbery	:	This property reflects the number of crimes where someone took or attempted to take anything of value by force or threat of force or by putting the victim in fear.	<br>
 
 
-THIS IS COMPLETELY DONE BY AHAMED AND TEAM.
+THIS IS COMPLETELY DONE BY OUR TEAM.
 
 
