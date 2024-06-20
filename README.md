@@ -20,7 +20,7 @@ This project requires **Python** and the following Python libraries installed:
 
 ### Code
 
-Template code is provided in the `project_ahamed.ipynb` notebook file. You will also be required  the `state crime.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. 
+Template code is provided in the `project.ipynb` notebook file. You will also be required  the `state crime.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. 
 
 
 
